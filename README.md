@@ -130,6 +130,13 @@ Instalar o módulo para manipular a data.
 npm install date-fns
 ```
 
+Permitir requisição externa.
+```
+npm install cors
+npm install --save-dev @types/cors
+```
+
+
 ## Como enviar o projeto para o GitHub.
 
 Inicializar um novo repositorio GIT.
